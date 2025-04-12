@@ -6,7 +6,7 @@ This repository contains my submissions for the **Peerlist UI Challenge**, cover
 
 | Day | Challenge | Folder |
 |-----|-----------|--------|
-| 1   | [Day 1 Challenge Name](./day-01) | `day-01/` |
+| 1   | [Day 1 Fluid Menu](./day-01) | `day-01/` |
 | 2   | [Day 2 Challenge Name](./day-02) | `day-02/` |
 | 3   | [Day 3 Challenge Name](./day-03) | `day-03/` |
 | 4   | [Day 4 Challenge Name](./day-04) | `day-04/` |
@@ -18,4 +18,4 @@ This repository contains my submissions for the **Peerlist UI Challenge**, cover
 
 ```bash
 git clone https://github.com/uiuxsatyam /Peerlist-UI-Challenge.git
-cd peerlist-ui-challenge
+cd Peerlist-UI-Challenge
