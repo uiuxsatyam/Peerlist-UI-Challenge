@@ -27,6 +27,10 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
+  // Add Vercel specific settings
+  swcMinify: true,
+  poweredByHeader: false,
+  reactStrictMode: true,
 }
 
 if (userConfig) {

@@ -2,6 +2,11 @@
   "name": "peerlist-ui-fluidmenu",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "npm@8.19.2",
+  "engines": {
+    "node": ">=18.18.0",
+    "npm": ">=8.19.2"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
